@@ -52,6 +52,18 @@ The Gesture Control Project is an innovative application designed to provide use
 
  - **Screenshots**:
 
+![Picture 1](Image/picture1.png)
+![Picture 2](Image/picture2.png)
+![Picture 3](Image/picture3.png)
+![Picture 4](Image/picture4.png)
+![Picture 5](Image/picture5.png)
+![Picture 6](Image/picture6.png)
+![Picture 7](Image/picture7.png)
+![Picture 8](Image/picture8.png)
+![Picture 9](Image/picture9.png)
+![Picture 10](Image/picture10.png)
+![Picture 11](Image/picture11.png)
+
 
 ## Requirements
 - Python 3.x
