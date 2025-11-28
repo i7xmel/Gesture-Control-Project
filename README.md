@@ -50,6 +50,7 @@ The Gesture Control Project is an innovative application designed to provide use
   - Comprehensive help section with tutorials on how to use features and troubleshoot common issues.
   - Clear instructions for setting up and calibrating the system for optimal performance.
 
+ - **Screenshots**:
 
 
 ## Requirements
