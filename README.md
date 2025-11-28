@@ -3,6 +3,19 @@
 ## Overview
 The Gesture Control Project is an innovative application designed to provide users with intuitive control over audio, video, and mouse tracking through hand gestures. This project aims to enhance user experience by enabling gesture-based interactions, making it a versatile tool for various applications, including entertainment and productivity.
 
+- **Screenshots**:
+
+![Picture 1](Image/Picture1.png)
+![Picture 2](Image/Picture2.png)
+![Picture 3](Image/Picture3.png)
+![Picture 4](Image/Picture4.png)
+![Picture 5](Image/Picture5.png)
+![Picture 6](Image/Picture6.png)
+![Picture 7](Image/Picture7.png)
+![Picture 8](Image/Picture8.png)
+![Picture 9](Image/Picture9.png)
+![Picture 10](Image/Picture10.png)
+![Picture 11](Image/Picture11.png)
 ## Features
 
 - **Audio Controls**: 
@@ -50,19 +63,7 @@ The Gesture Control Project is an innovative application designed to provide use
   - Comprehensive help section with tutorials on how to use features and troubleshoot common issues.
   - Clear instructions for setting up and calibrating the system for optimal performance.
 
- - **Screenshots**:
-
-![Picture 1](Image/Picture1.png)
-![Picture 2](Image/Picture2.png)
-![Picture 3](Image/Picture3.png)
-![Picture 4](Image/Picture4.png)
-![Picture 5](Image/Picture5.png)
-![Picture 6](Image/Picture6.png)
-![Picture 7](Image/Picture7.png)
-![Picture 8](Image/Picture8.png)
-![Picture 9](Image/Picture9.png)
-![Picture 10](Image/Picture10.png)
-![Picture 11](Image/Picture11.png)
+ 
 
 
 ## Requirements
