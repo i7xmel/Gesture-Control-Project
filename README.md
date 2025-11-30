@@ -47,21 +47,15 @@ The Gesture Control Project is an innovative application designed to provide use
   - Intuitive GUI to help users understand available gestures and controls.
   - Visual feedback during gesture recognition to enhance user confidence and interaction.
   
-- **Cross-Platform Compatibility**: 
-  - Designed to work on various operating systems (Windows, macOS, Linux).
-  - Easy setup process to ensure broad accessibility for all users.
+
 
 - **Real-Time Gesture Recognition**: 
   - Utilizes advanced computer vision techniques for accurate and fast gesture recognition.
   - Minimal latency ensures a smooth user experience, making interactions feel natural and responsive.
 
-- **Multilingual Support**: 
-  - The application supports multiple languages, making it accessible to a wider audience.
-  - Users can choose their preferred language for interface and instructions.
 
-- **Help and Documentation**: 
-  - Comprehensive help section with tutorials on how to use features and troubleshoot common issues.
-  - Clear instructions for setting up and calibrating the system for optimal performance.
+
+
 
  
 
